@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ldvelh-master/LDVLEH/LDVELH.iml" filepath="$PROJECT_DIR$/ldvelh-master/LDVLEH/LDVELH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ldvelh-master/LDVLEH-web/LDVLEH-Web.iml" filepath="$PROJECT_DIR$/ldvelh-master/LDVLEH-web/LDVLEH-Web.iml" />
+    </modules>
+  </component>
+</project>
